@@ -1,0 +1,14 @@
+.btn-midd{
+    display: flex;
+    flex-flow: row;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.login-form{
+    margin-top: 40px;
+}
+.signup-form{
+    margin-top: 40px;
+}
